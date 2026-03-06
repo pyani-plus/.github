@@ -4,18 +4,7 @@
 
 **Hi there!** 👋
 
-This is the GitHub organisation home of the `pyani-plus` bioinformatics software. It contains the repositories listed below.
-
-| Name | Summary | Repository | Webpage |
-| :--- | :------ | :--------- | :------ |
-| `pyani-plus` | The `pyani-plus` genome comparison software | [link](https://github.com/pyani-plus/pyani-plus) | [webpage](https://pyani-plus.github.io/pyani-plus-docs/) |
-| `pyani-plus-docs` | Quarto documentation for `pyani-plus` | [link](https://github.com/pyani-plus/pyani-plus-docs) | [webpage](https://pyani-plus.github.io/pyani-plus-docs/) |
-| `pyani-benchmark` | A package to generate synthetic genomes for benchmarking `pyani-plus` methods | [link](https://github.com/pyani-plus/pyani-benchmark) | - |
-| `design-documentation` | Quarto documentation outlining design choices and details for `pyani-plus` | [link](https://github.com/pyani-plus/design-documentation) | [webpage](https://pyani-plus.github.io/design-documentation/) |
-
------------------
-
-## What is `pyani-plus`?
+This is the GitHub organisation home of the `pyani-plus` bioinformatics software. 
 
 `pyani-plus` is an application and Python module for whole-genome classification of microbes using Average Nucleotide Identity and similar methods. It is a reimplemented version of [`pyani`](https://github.com/widdowquinn/pyani) with support for additional schedulers and methods.
 
@@ -33,6 +22,15 @@ This is the GitHub organisation home of the `pyani-plus` bioinformatics software
 [![BioConda](https://img.shields.io/conda/vn/bioconda/pyani-plus.svg?label=Bioconda)](https://anaconda.org/bioconda/pyani-plus)
 [![Zenodo DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15005805.svg)](https://doi.org/10.5281/zenodo.15005805)
 [![Code Style](https://img.shields.io/badge/Code%20style-black-000000.svg)](https://github.com/python/black)
+
+It contains the repositories listed below.
+
+| Name | Summary | Repository | Webpage |
+| :--- | :------ | :--------- | :------ |
+| `pyani-plus` | The `pyani-plus` genome comparison software | [link](https://github.com/pyani-plus/pyani-plus) | [webpage](https://pyani-plus.github.io/pyani-plus-docs/) |
+| `pyani-plus-docs` | Quarto documentation for `pyani-plus` | [link](https://github.com/pyani-plus/pyani-plus-docs) | [webpage](https://pyani-plus.github.io/pyani-plus-docs/) |
+| `pyani-benchmark` | A package to generate synthetic genomes for benchmarking `pyani-plus` methods | [link](https://github.com/pyani-plus/pyani-benchmark) | - |
+| `design-documentation` | Quarto documentation outlining design choices and details for `pyani-plus` | [link](https://github.com/pyani-plus/design-documentation) | [webpage](https://pyani-plus.github.io/design-documentation/) |
 
 ## Citing `pyANI-plus`
 
