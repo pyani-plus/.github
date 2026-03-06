@@ -1,6 +1,6 @@
  # `pyani-plus`
 
-![pyani-plus hex sticker logo](images/pyani_plus_logo.png) ![pyani-plus hex sticker logo - MicroSoc2025](images/pyani_plus_logo_microsoc_2025.png)
+<img src="images/pyani_plus_logo.png" width="200"><img src="images/pyani_plus_logo_microsoc_2025.png" width="200">
 
 **Hi there!** 👋
 
