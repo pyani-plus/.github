@@ -1,6 +1,6 @@
  # `pyani-plus`
 
-<img src="images/pyani_plus_logo.png" width="200"><img src="images/pyani_plus_logo_microsoc_2025.png" width="200">
+<img src="images/pyani_plus_logo.png" width="200" alt="pyani-plus hexgonal sticker showing red and blue heatmap with butterfly logo and the text pyani-plus"><img src="images/pyani_plus_logo_microsoc_2025.png" width="200" alt="pyani-plus hexgonal sticker showing orange and green heatmap with butterfly logo and the text pyani-plus MicroSoc2025"><img src="images/pyani_plus_logo_microsoc_2026.png" width="200" alt="pyani-plus hexgonal sticker showing red and blue heatmap with butterfly logo and the text pyani-plus MicroSoc2026">
 
 **Hi there!** 👋
 
